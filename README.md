@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/Lamakira/product-preview-card)
 - Live Site URL: (https://lamakira.github.io/product-preview-card/)
 
 ### Built with
